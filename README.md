@@ -6,7 +6,7 @@ A breakout board for NESRGB installs on AV Famicoms. Attaches to the underside o
 # PCB Manufacturing
 Thickness: 0.8<br>
 Project Link: https://oshwlab.com/fragolroc/av-famicom-buddy<br>
-OshPark:
+OshPark: https://github.com/FragolRoc/FT-AV-Fami-Buddy
 
 # Installation
 This board is deisgned to be installed alongside an NESRGB mod. 
