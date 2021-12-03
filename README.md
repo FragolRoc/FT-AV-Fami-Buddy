@@ -3,10 +3,10 @@ This board is currently untested. Feel free make one and leave feedback!
 
 A breakout board for NESRGB installs on AV Famicoms. Attaches to the underside of the AV multiout and extends pads to the side of the board. This allows installers to run ribbon or wire straight to pads rather than trying to solder directly to the pins.
 
-#PCB Manufacturing
+# PCB Manufacturing
 Thickness: 0.8
 
-#Installation
+# Installation
 This board is deisgned to be installed alongside an NESRGB mod. 
 
 If you are concerned about the potential "jailbars" which may be present after the NESRGB installtion, please reference this guide to fix the noisy ground of the AV multiout. If "jailbars" do not conern you, then continue. https://www.laserbear.net/blogs/news/removing-jailbars-from-av-famicom-nesrgb
