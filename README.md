@@ -15,3 +15,8 @@ If you are concerned about the potential "jailbars" which may be present after t
 
 After the NESRGB is install and you're running wire to multiout, solder this board to the underside of the AV multiout so that the screw hole is aligned properly with the mainboard. Solder into place and then run wires accordingly to the pads. CS# runs to the SYNC pin of AV multiout for this board.
 
+The pad labeled "pin 45" is an optional connection to allow expansion audio to be mixed through a Famicom cart. From the NESRGB, connect O to the Fami-Buddy and then connecto the "pin 45" pad to pin 45 of the cart connector. Audio from the NESRGB will be routed to the Famicom cart, mixed with the on-board expansion audio chip, and then routed back through pin 46 to the AV multiout. Again, this is optional and requires that you also run wires from CPU pin 1 & 2 to the NESRGB (as you would for installation on an NES).
+
+TianFeng orignally came up with this idea and I adapted it to work on this board. For installation pictures regarding pin 45 follow the below link.<br>
+https://twitter.com/Tian_Feng44/status/1253359763259342855?s=20
+
